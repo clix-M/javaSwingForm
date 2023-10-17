@@ -12,8 +12,8 @@ Este proyecto es un ejemplo de como crear un  sistema de registro de usuarios y 
 
 ## MySQl
   ![MySQL](/src/img/0_SQL.png)
-  ![MySQL](/src/img/1_s.png)
-  ![MySQL](/src/img/3_s.png)
+  ![MySQL](/src/img/1_SQL.png)
+  ![MySQL](/src/img/3_sql.png)
 
 ## Instalación
 Para poder ejecutar el proyecto es necesario tener instalado:
