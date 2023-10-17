@@ -3,8 +3,6 @@
 ## Demostration
 [![video](https://res.cloudinary.com/dykgjtzlk/video/upload/v1697553834/bzv7ez8tjugyqsrakeio.mp4)](https://res.cloudinary.com/dykgjtzlk/video/upload/v1697553834/bzv7ez8tjugyqsrakeio.mp4)
 
-[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
-
 ## Description
 Este proyecto es un ejemplo de como crear un Systema de Control de Empleados con Java Swing y MySQL.
 
